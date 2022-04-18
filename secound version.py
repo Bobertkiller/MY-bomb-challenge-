@@ -42,7 +42,8 @@ while size != bq:
     else:
         continue
     break
-#I was able to make this verification to work, thus my code can be true to the bomb quantity that is randomly generated
+#I was able to make this verification to work, thus my code can be true to the bomb quantity that is randomly generated, now i need to make the floor verification
+#and make it so the user determines how many bombs will be generated
 exit()
 #I put this exit() to do some testing so please ignore what comes in the next blocks of code since i am testing a way
 # to generate random bombs and avoid duplicates
